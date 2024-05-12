@@ -1,3 +1,3 @@
 # smashkarts
 
-links: https://smash-karts.netlify.app/ 
+https://www.retardedreindeer.github.io/smashkarts
